@@ -1,0 +1,15 @@
+Usia,Pendapatan,Mahasiswa,Rating Kredit,Beli
+Muda,Tinggi,Tidak,Cukup,Tidak
+Muda,Tinggi,Tidak,Sangat Bagus,Tidak
+Dewasa,Tinggi,Tidak,Cukup,Ya
+Senior,Menengah,Tidak,Cukup,Ya
+Senior,Rendah,Ya,Cukup,Ya
+Senior,Rendah,Ya,Sangat Bagus,Tidak
+Dewasa,Rendah,Ya,Sangat Bagus,Ya
+Muda,Menengah,Tidak,Cukup,Tidak
+Muda,Rendah,Ya,Cukup,Ya
+Senior,Menengah,Ya,Cukup,Ya
+Muda,Menengah,Ya,Sangat Bagus,Ya
+Dewasa,Menengah,Tidak,Sangat Bagus,Ya
+Dewasa,Tinggi,Ya,Cukup,Ya
+Senior,Menengah,Tidak,Sangat Bagus,Tidak

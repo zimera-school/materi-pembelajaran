@@ -32,7 +32,7 @@ Untuk overview tentang statistika dan probabilitas, disarankan untuk mempelajari
 ## Materi 
 
 1.  Memahami Computational Linguistics, Ruang Lingkup NLP, serta Mulai Menggunakan spaCy.
-2.  Operasi Inti NLP Menggunakan spaCy: *Text Processing Pipeline*.
+2.  Operasi Inti NLP Menggunakan spaCy: *Text Processing Pipelines*.
 3.  *Container Objects*.
 4.  Fitur Linguistik dari spaCy: *POS-tagger, dependency parser, named-entity recognizer, merging/splitting*.
 5.  *Word Vectors - Semantic Similarity*.

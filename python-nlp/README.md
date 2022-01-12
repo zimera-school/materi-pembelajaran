@@ -17,7 +17,7 @@ Pengetahuan linguistik akan sangat menolong untuk memahami NLP. Meskipun demikia
     * [Phonology](https://en.wikipedia.org/wiki/Phonology): tidak digunakan pada materi ini, relatif lebih ke *speech recognition* untuk kalimat yang dibicarakan, bukan tulisan.
     * [Morphology](https://en.wikipedia.org/wiki/Morphology_(linguistics)): mempelajari tentang *words* / kata-kata, bagaimana kata tersebut dibentuk dan keterkaitannya dengan kata lain untuk membentuk makna.
     * [Syntax](https://en.wikipedia.org/wiki/Syntax): ketarkaitan struktural antar kata-kata.
-    * [Semantics](https://en.wikipedia.org/wiki/Semantics]: mempelajari arti / *meaning*.
+    * [Semantics](https://en.wikipedia.org/wiki/Semantics): mempelajari arti / *meaning*.
     * [Pragmatics](https://en.wikipedia.org/wiki/Pragmatics): mempelajari konteks serta bagaimana kontribusi konteks tersebut terhadap makna.
     * [Discourse](https://en.wikipedia.org/wiki/Discourse): diskursus, mempelajari percakapan sebagai suatu bentuk komunikasi.
 2. https://stats.stackexchange.com/questions/445316/how-much-linguistics-knowledge-does-one-need-to-study-natural-language-processin

@@ -28,9 +28,9 @@
 3. Input Output di Go
 
 *Hari 4: Error dan Abstraksi*
-3. Penanganan *errors*
-4. Struct
-5. Interface
+1. Penanganan *errors*
+2. Struct
+3. Interface
 
 *Hari 5: Serialisasi Data*
 1. Serialisasi dan de-serialisasi

@@ -22,16 +22,15 @@
 2. Struktur data array, slice, dan map
 3. Fungsi (*arguments, returns, anonymous*)
 
-*Hari 3: Dasar-dasar Pemrograman Go (3)*
-1. Input Output di Go
-2. Penanganan *errors*
-3. *Package* di Go
-4. Struct dan Interface
+*Hari 3: Pustaka dan Input Output*
+1. *Package* di Go
+2. *Go standard* dan *community library*
+3. Input Output di Go
 
-*Hari 4: Pustaka dan Software Design*
-1. *Go standard library*
-2. *Go community library*
-3. UML
+*Hari 4: Error dan Abstraksi*
+3. Penanganan *errors*
+4. Struct
+5. Interface
 
 *Hari 5: Serialisasi Data*
 1. Serialisasi dan de-serialisasi

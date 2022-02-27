@@ -27,7 +27,7 @@
 2. Interface
 3. Pointer
 
-*Hari 4: Pustaka dan Input Output*
+*Hari 4: Pustaka*
 1. *Package* di Go
 2. *Go standard library*
 3. *Go community library*

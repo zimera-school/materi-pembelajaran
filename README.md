@@ -20,15 +20,15 @@ Semua pembelajar di sekolah ini akan memulai dari kemampuan dasar terlebih dahul
 
 1. [Pemrograman Python](python-programming/).
 2. [Pemrograman Go](go-programming/).
+3. [Pemrograman JavaScript](js-programming/).
 
 ## Keahlian Spesifik 
-
 
 1. [Java - Full Stack Developer](java-full-stack/)
 2. [Python Web Developer](python-web-developer/) **WiP**
 3. [Front End Developer](ront-end/)
 4. [Mobile Application Developer](mobile-app-dev/)
-5. [JavaScript - Node.js Programming](javascript-node.js/)
+5. [JavaScript - Node.js Programming for Backend](js-node-backend/)
 6. [Python Programming for Artificial Intelligence - Machine Learning](python-ai-ml/) **WiP**
 7. [Natural Language Processing using Python and spaCy](python-nlp/)
 

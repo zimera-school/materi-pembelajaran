@@ -19,6 +19,8 @@ Semua pembelajar di sekolah ini akan memulai dari kemampuan dasar terlebih dahul
 ## Kemampuan Bahasa Pemrograman
 
 1. [Pemrograman Python](python-programming/).
+2. [Pemrograman Go](go-programming/).
+2. [Pemrograman Go](go-programming/).
 
 ## Keahlian Spesifik 
 
@@ -63,3 +65,11 @@ Dusun Medelan - RT 01, Umbulmartani, Ngemplak, Sleman, DIY
 https://www.google.com/maps/place/Zimera+Systems/@-7.6975303,110.43921,17z/data=!3m1!4b1!4m5!3m4!1s0x2e7a5d7cc40e8871:0x2d44da15f0b3781e!8m2!3d-7.6975303!4d110.4413987
 
 E-mail: zimera.systems@gmail.com
+
+## Kontributor
+
+<a href = "https://github.com/Tanu-N-Prabhu/Python/graphs/contributors">
+  <img src = "https://contrib.rocks/image?repo = zimera-school/materi-pembelajaran" />
+</a>
+
+Made with [contributors-img](https://contrib.rocks).

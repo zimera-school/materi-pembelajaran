@@ -20,7 +20,6 @@ Semua pembelajar di sekolah ini akan memulai dari kemampuan dasar terlebih dahul
 
 1. [Pemrograman Python](python-programming/).
 2. [Pemrograman Go](go-programming/).
-2. [Pemrograman Go](go-programming/).
 
 ## Keahlian Spesifik 
 
@@ -68,8 +67,8 @@ E-mail: zimera.systems@gmail.com
 
 ## Kontributor
 
-<a href = "https://github.com/Tanu-N-Prabhu/Python/graphs/contributors">
-  <img src = "https://contrib.rocks/image?repo = zimera-school/materi-pembelajaran" />
+<a href="https://github.com/zimera-school/materi-pembelajaran/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=zimera-school/materi-pembelajaran" />
 </a>
 
-Made with [contributors-img](https://contrib.rocks).
+Made with [contrib.rocks](https://contrib.rocks).

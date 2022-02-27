@@ -11,7 +11,7 @@ Materi ini memerlukan prasyarat penguasaan [Pemrograman JavaScript](../js-progra
 
 Materi pada minggu ini mulai menekankan pada framework Express. Node.js menyediakan berbagai [fungsi pustaka standar default](https://nodejs.org/docs/latest/api/) antara lain HTTP server, tetapi biasanya masih memerlukan pustaka framework yang lebih terintegrasi. Minggu ini merupakan masa pembelajaran untuk mendalami Express.
 
-[Minggu 02](isi/01.md)
+[Minggu 01](isi/01.md)
 
 *Hari 1: Mengenal Framework Express*
 
@@ -52,7 +52,7 @@ Materi pada minggu ini mulai menekankan pada framework Express. Node.js menyedia
 
 ## Akses Basis Data
 
-[Minggu 03](isi/02.md)
+[Minggu 02](isi/02.md)
 
 *Hari 1: SQL dan MariaDB*
 
@@ -100,7 +100,7 @@ Materi pada minggu ini mulai menekankan pada framework Express. Node.js menyedia
 
 ## Lebih Lanjut dengan Node.js Sebagai Back End
 
-[Minggu 04](isi/03.md)
+[Minggu 03](isi/03.md)
 
 *Hari 1: RESTful Endpoint* 
 

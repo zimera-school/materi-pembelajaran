@@ -22,19 +22,19 @@
 2. Struktur data array, slice, dan map
 3. Fungsi (*arguments, returns, anonymous*)
 
-*Hari 3: Pointer dan Pustaka Standard*
-1. Pointer
+*Hari 3: Abstraksi dan Pointer*
+1. Struct
+2. Interface
+3. Pointer
+
+*Hari 4: Pustaka dan Input Output*
 1. *Package* di Go
 2. *Go standard library*
+3. *Go community library*
 
-*Hari 4: Pustaka Komunitas dan Input Output*
-1. *Go community library*
-2. Input Output di Go
-
-*Hari 5: Error, Abstraksi*
+*Hari 5: Error dan Input/Output*
 1. Penanganan *errors*
-2. Struct
-3. Interface
+2. *Input/Output* di Go
 
 ### [Minggu 02](isi/02.md)
 

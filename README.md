@@ -19,15 +19,16 @@ Semua pembelajar di sekolah ini akan memulai dari kemampuan dasar terlebih dahul
 ## Kemampuan Bahasa Pemrograman
 
 1. [Pemrograman Python](python-programming/).
+2. [Pemrograman Go](go-programming/).
+3. [Pemrograman JavaScript](js-programming/).
 
 ## Keahlian Spesifik 
-
 
 1. [Java - Full Stack Developer](java-full-stack/)
 2. [Python Web Developer](python-web-developer/) **WiP**
 3. [Front End Developer](ront-end/)
 4. [Mobile Application Developer](mobile-app-dev/)
-5. [JavaScript - Node.js Programming](javascript-node.js/)
+5. [JavaScript - Node.js Programming for Backend](js-node-backend/)
 6. [Python Programming for Artificial Intelligence - Machine Learning](python-ai-ml/) **WiP**
 7. [Natural Language Processing using Python and spaCy](python-nlp/)
 
@@ -63,3 +64,11 @@ Dusun Medelan - RT 01, Umbulmartani, Ngemplak, Sleman, DIY
 https://www.google.com/maps/place/Zimera+Systems/@-7.6975303,110.43921,17z/data=!3m1!4b1!4m5!3m4!1s0x2e7a5d7cc40e8871:0x2d44da15f0b3781e!8m2!3d-7.6975303!4d110.4413987
 
 E-mail: zimera.systems@gmail.com
+
+## Kontributor
+
+<a href="https://github.com/zimera-school/materi-pembelajaran/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=zimera-school/materi-pembelajaran" />
+</a>
+
+Made with [contrib.rocks](https://contrib.rocks).

@@ -8,7 +8,7 @@
 
 ## Materi
 
-[Minggu 01](isi/01.md)
+### [Minggu 01](isi/01.md)
 
 *Hari 1: Go, Ekosistem Go, dan Dasar-Dasar Pemrograman Go*
 1. Development tools dan ekosistemnya
@@ -22,17 +22,39 @@
 2. Struktur data array, slice, dan map
 3. Fungsi (*arguments, returns, anonymous*)
 
-*Hari 3: Pustaka dan Input Output*
+*Hari 3: Abstraksi dan Pointer*
+1. Struct
+2. Interface
+3. Pointer
+
+*Hari 4: Pustaka*
 1. *Package* di Go
-2. *Go standard* dan *community library*
-3. Input Output di Go
+2. *Go standard library*
+3. *Go community library*
 
-*Hari 4: Error dan Abstraksi*
+*Hari 5: Error dan Input/Output*
 1. Penanganan *errors*
-2. Struct
-3. Interface
+2. *Input/Output* di Go
 
-*Hari 5: Serialisasi Data*
+### [Minggu 02](isi/02.md)
+
+*Hari 1: Serialisasi Data*
 1. Serialisasi dan de-serialisasi
 2. Serialisasi data: XML dan JSON
 3. Serialisasi dan de-serialisasi data lainnya: YAML, Protobuf, dan lain-lain
+
+*Hari 2: Unit Testing*
+1. Memahami unit testing
+2. Unit testing di Go
+
+*Hari 3: Concurrent Programming*
+1. Memahami Concurrent Programming
+2. Concurrent Programming di Go
+
+*Hari 4: Software Design Patterns dan Go*
+1. Memahami *software design patterns*
+2. *Software design patterns* di Go.
+
+*Hari 5: Tools untuk Go*
+1. *Generate* dokumentasi dengan **Godoc**.
+2. Format kode secara otomatis dengan **Gofmt**.

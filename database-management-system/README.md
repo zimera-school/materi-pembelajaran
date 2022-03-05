@@ -32,4 +32,3 @@
 *Hari 5: MongoDB*
 1. *Create*, *Read*, *Update*, dan *Delete* (CRUD) Operation
 2. *Aggregation*
-3. *Transaction*

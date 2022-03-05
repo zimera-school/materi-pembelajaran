@@ -14,8 +14,8 @@
 2. Perancangan *database*
 
 *Hari 2: SQL (Structured Query Language) dan PostgreSQL*
-1. Ekosistem DBMS berbasis SQL
-2. Ekosistem PostgreSQL
+1. DBMS berbasis SQL
+2. SQL dan PostgreSQL
 3. Terminologi dan Istilah
 
 *Hari 3: PostgreSQL*
@@ -23,8 +23,8 @@
 2. DCL dan TCL
 
 *Hari 4: No-SQL (Not Only SQL) dan MongoDB*
-1. Ekosistem DBMS berbasis No-SQL
-2. Ekosistem MongoDB
+1. DBMS berbasis No-SQL
+2. No-SQL dan MongoDB
 3. Terminologi dan Istilah
 
 *Hari 5: MongoDB*

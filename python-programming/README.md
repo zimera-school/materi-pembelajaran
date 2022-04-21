@@ -67,7 +67,7 @@
 
 1. Pengertian *software design patterns*
 2. Penggunaan *software design patterns* dalam pembuatan software.
-3. Kategri *software design patterns*.
+3. Kategori *software design patterns*.
 4. *Software design patterns* di Python.
 5. *Dependency Injection*.
 

@@ -32,6 +32,7 @@ Semua pembelajar di sekolah ini akan memulai dari kemampuan dasar terlebih dahul
 5. [JavaScript - Node.js Programming for Backend](js-node-backend/)
 6. [Python Programming for Artificial Intelligence - Machine Learning](python-ai-ml/) **WiP**
 7. [Natural Language Processing using Python and spaCy](python-nlp/)
+8. [Building Data Warehouse using Apache Hive](data-warehouse-hive/)
 
 ## Materi Video
 

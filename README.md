@@ -1,4 +1,4 @@
-<img src="img/logo.png" width="150px" height="150px" />
+<img src="img/zimera-school-logo.jpg" width="150px" height="150px" />
 
 **Zimera School** adalah bagian dari [Zimera Corporation](https://github.com/zimera-corp).
 

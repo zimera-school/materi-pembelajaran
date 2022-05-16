@@ -1,6 +1,6 @@
 # Materi Pembelajaran "Python Programming"
 
-![Peta Pembelajaran untuk Python Programming](../img/peta-python-programming.png)
+![Peta Pembelajaran untuk Python Programming](img/peta-python-programming.png)
 
 **Peta Pembelajaran**
 

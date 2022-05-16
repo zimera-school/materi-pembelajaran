@@ -1,6 +1,6 @@
 <img src="img/logo.png" width="150px" height="150px" />
 
-**Zimera School** adalah bagian dari **Zimera Systems**.
+**Zimera School** adalah bagian dari [Zimera Corporation](https://github.com/zimera-corp).
 
 # Materi Pembelajaran
 
@@ -52,13 +52,15 @@ Secara umum, penggunaan lisensi ini mempunyai implikasi bahwa pengguna materi:
 2.  Boleh menggunakan produk yang ada disini untuk keperluan apapun jika point 1 di atas terpenuhi.
 3.  Boleh membuat produk derivatif dari produk yang ada disini sepanjang perubahan-perubahan yang dilakukan diberitahukan ke kami dan di-share dengan menggunakan lisensi yang sama.
 
-Materi yang terdapat pada sekolah ini awalnya berada pada Praxis Academy dan dikembangkan oleh Dr. Bambang Purnomosidi D. P. Sejak awal 2021, materi dari Praxis Academy yang dikembangkan oleh Dr. Bambang Purnomosidi D. P. telah diambil dan diperbaiki lagi dan disesuaikan dengan domain dari Zimera Systems yaitu tentang teknologi software dan data. Pengembangan dilakukan oleh Dr. Bambang Purnomosidi D. P. 
+Materi yang terdapat pada sekolah ini awalnya berada pada Praxis Academy dan dikembangkan oleh Dr. Bambang Purnomosidi D. P. Sejak awal 2021, materi dari Praxis Academy yang dikembangkan oleh Dr. Bambang Purnomosidi D. P. telah diambil dan diperbaiki lagi dan disesuaikan dengan domain dari Zimera School yaitu tentang teknologi software dan data. Pengembangan dilakukan oleh Dr. Bambang Purnomosidi D. P. 
 
 ### Atribusi
 
 **Dr. Bambang Purnomosidi D. P.**  
 
-**_Zimera Systems_**  
+**_Zimera Corporation_**  
+
+PT. Zenit Merdeka Raya
 
 Dusun Medelan - RT 01, Umbulmartani, Ngemplak, Sleman, DIY
 

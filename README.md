@@ -21,6 +21,7 @@ Semua pembelajar di sekolah ini akan memulai dari kemampuan dasar terlebih dahul
 1. [Pemrograman Python](python-programming/).
 2. [Pemrograman Go](go-programming/).
 3. [Pemrograman JavaScript](js-programming/).
+4. [Pemrograman Java](java-programming/).
 
 ## Keahlian Spesifik 
 

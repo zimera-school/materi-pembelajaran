@@ -33,6 +33,7 @@ Semua pembelajar di sekolah ini akan memulai dari kemampuan dasar terlebih dahul
 6. [Python Programming for Artificial Intelligence - Machine Learning](python-ai-ml/) **WiP**
 7. [Natural Language Processing using Python and spaCy](python-nlp/)
 8. [Building Data Warehouse using Apache Hive](data-warehouse-hive/)
+9. [Big Data Management](big-data-management/)
 
 ## Materi Video
 

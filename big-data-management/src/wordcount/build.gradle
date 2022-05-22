@@ -1,0 +1,29 @@
+apply plugin: 'java'
+apply plugin: 'application'
+
+mainClassName = 'WordCount'
+
+repositories {
+    mavenCentral()
+}
+
+jar {
+    baseName = 'word-count'
+    version =  '0.1.0'
+}
+
+sourceCompatibility = 1.8
+targetCompatibility = 1.8
+
+dependencies {
+    implementation 'org.apache.hadoop:hadoop-common:3.2.1'
+    implementation 'org.apache.hadoop:hadoop-hdfs:3.2.1'
+    implementation 'org.apache.hadoop:hadoop-hdfs-client:3.2.1'
+    implementation 'org.apache.hadoop:hadoop-mapreduce-client-core:3.2.1'
+    implementation 'org.apache.hadoop:hadoop-mapreduce-client-common:3.2.1'
+    implementation 'org.apache.hadoop:hadoop-mapreduce-client-jobclient:3.2.1'
+    implementation 'org.apache.hadoop:hadoop-mapreduce-client-app:3.2.1'
+    implementation 'org.apache.hadoop:hadoop-mapreduce-client-shuffle:3.2.1'
+    testImplementation 'junit:junit:4.12'
+}
+

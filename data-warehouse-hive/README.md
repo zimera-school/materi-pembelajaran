@@ -2,7 +2,7 @@
 
 <img src="img/hive-logo.jpg" width="150px" height="150px" />
 
-1. Gambaran Umum
+1. [Gambaran Umum](isi/01.md)
      * Big Data
      * Data Warehouse, ETL, dan ELT
      * Tentang Apache Hive dan Fitur-fiturnya

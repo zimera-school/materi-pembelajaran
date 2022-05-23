@@ -6,7 +6,7 @@
      * Big Data
      * Data Warehouse, ETL, dan ELT
      * Tentang Apache Hive dan Fitur-fiturnya
-     * Arsitektur dan Komponen Apache Hive https://cwiki.apache.org/confluence/plugins/servlet/mobile?contentId=27362072#content/view/27362072
+     * Arsitektur dan Komponen Apache Hive 
      * Ekosistem Apache Hive
 
 2. Memulai Apache Hive

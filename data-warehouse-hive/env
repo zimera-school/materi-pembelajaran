@@ -1,0 +1,40 @@
+# source ~/env/fish/python/miniconda3.9
+set -x PATH /home/bpdp/software/python-dev-tools/miniconda39/bin $PATH
+source /home/bpdp/software/python-dev-tools/miniconda39/etc/fish/conf.d/conda.fish
+
+#source ~/env/fish/nodejs/nodejs-lts
+set NODEJS_HOME /home/bpdp/software/nodejs-dev-tools
+set -x PATH $HOME/bin $NODEJS_HOME/nodejs-lts/bin $NODEJS_HOME/flow $PATH
+set -x MANPATH $MANPATH $NODEJS_HOME/nodejs-lts/man
+
+#source ~/env/fish/java/adoptium/temurin8
+set -x JAVA_HOME /home/bpdp/software/java-dev-tools/eclipse-temurin/temurin8
+set -x PATH $JAVA_HOME/bin $PATH
+set -x MANPATH $JAVA_HOME/man $MANPATH
+set -x LD_LIBRARY_PATH $JAVA_HOME/jre/lib/amd64 $JAVA_HOME/jre/lib/amd64/jli $JAVA_HOME/jre/lib/amd64/server $LD_LIBRARY_PATH
+
+#source ~/env/fish/java/etc/gradle7 
+set GRADLE_HOME /home/bpdp/software/java-dev-tools/gradle7
+set -x PATH $PATH $GRADLE_HOME/bin
+
+#source ~/env/fish/big-data/hadoop-stable
+set -x HADOOP_HOME /home/bpdp/software/big-data-dev-tools/hadoop-stable
+set -x PATH $HADOOP_HOME/bin $HADOOP_HOME/sbin $PATH
+set -x PDSH_RCMD_TYPE ssh
+
+#source ~/env/fish/big-data/hive-3
+set -x HIVE_HOME /home/bpdp/software/big-data-dev-tools/hive-3
+set -x PATH $HIVE_HOME/bin $HIVE_HOME/hcatalog/bin $HIVE_HOME/hcatalog/sbin $PATH
+
+#source ~/env/fish/dbms/mysql
+set -x PATH $HOME/software/dbms/mysql/bin $PATH
+set -x LD_LIBRARY_PATH $HOME/software/dbms/mysql/lib $HOME/software/dbms/mysql/lib/plugin $HOME/software/dbms/mysql/lib/private $HOME/software/dbms/mysql/lib/private/sasl2 $LD_LIBRARY_PATH
+set -x MANPATH $HOME/software/dbms/mysql/man $MANPATH
+set -x MYSQL_HOME $HOME/software/dbms/mysql
+
+conda activate py39-hive
+# rc-service ssh start
+# mysqld_safe --user=mysql &
+# kill with mysqladmin -u root -p shutdown
+# Hadoop:
+# start-dfs.sh

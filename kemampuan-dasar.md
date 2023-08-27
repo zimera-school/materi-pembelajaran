@@ -107,7 +107,7 @@ Materi dan Penjelasan
 Latihan
 ```
 
-**Catatan**: semua hasil pada latihan ini disimpan pada direktori `zimera/kemampuan-dasar-1/latihan` (jika menggunakan Windows, pemisah antar direktori adalah _backslash_, jadi pada Windows hasilnya akan disimpan di `zimera\kemampuan-dasar-1\latihan`. Anda bebas menentukan lokasi tempat direktori `zimera` berada.
+**Catatan**: semua hasil pada latihan ini disimpan pada direktori `zimera/kemampuan-dasar-1/latihan` (jika menggunakan Windows, pemisah antar direktori adalah `\`, jadi pada Windows hasilnya akan disimpan di `zimera\kemampuan-dasar-1\latihan`. Anda bebas menentukan lokasi tempat direktori `zimera` berada.
 
 **Untuk Pemakai Linux**
 
@@ -144,7 +144,7 @@ Referensi:
 
 Selesaikan kasus-kasus berikut.
 
-**Catatan**: semua hasil pada latihan ini disimpan pada direktori `zimera/kemampuan-dasar-1/kasus` (jika menggunakan Windows, pemisah antar direktori adalah \, jadi pada Windows hasilnya akan disimpan di `zimera\kemampuan-dasar-1\kasus`. Anda bebas menentukan lokasi tempat direktori `zimera` berada.
+**Catatan**: semua hasil pada latihan ini disimpan pada direktori `zimera/kemampuan-dasar-1/kasus` (jika menggunakan Windows, pemisah antar direktori adalah `\`, jadi pada Windows hasilnya akan disimpan di `zimera\kemampuan-dasar-1\kasus`. Anda bebas menentukan lokasi tempat direktori `zimera` berada.
 
 1. Buat shell script / powershell sript / batch file `cari-java.sh` (untuk shell script - macOS dan Linux) atau `cari-java.bat` (untuk Windows). Tujuan dari script tersebut adalah untuk melihat daftar file pada suatu direktori (termasuk direktori anak-anaknya) dan jika terdapat file dengan ekstensi `.java` - tampilkan tulisan "`Ada file Java pada direktori {nama direktori}`". Hasil eksekusi (di Linux, lainnya menyesuaikan):
 

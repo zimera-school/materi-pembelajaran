@@ -85,7 +85,7 @@ Materi dan Penjelasan
     * [Arsitektur macOS](https://en.wikipedia.org/wiki/Architecture_of_macOS).
     * [Terminal dan shell di macOS](https://www.techrepublic.com/blog/apple-in-the-enterprise/mac-terminal-basics-unlock-the-power-of-the-command-line/).
     * [Terminal di macOS](https://en.wikipedia.org/wiki/Terminal_(macOS)).
-    * Dua shell yang sering dipakai di macOS: [Bash](https://www.gnu.org/software/bash/) dan [Zsh]((http://zsh.sourceforge.net/). Default shell di macOS adalah Bash (pre-Catalina). Mulai Catalina, shell default adalah Zsh.
+    * Dua shell yang sering dipakai di macOS: [Bash](https://www.gnu.org/software/bash/) dan [Zsh](http://zsh.org/). Default shell di macOS adalah Bash (pre-Catalina). Mulai Catalina, shell default adalah Zsh.
     * [Beberapa utilities di macOS](https://www.mitchchn.me/2014/os-x-terminal/), lihat juga di [artikel ini](https://www.techrepublic.com/article/16-terminal-commands-every-user-should-know/).
     * [Daftar lengkap command line berbasis Bash di macOS](https://ss64.com/osx/).
     * [Shell script dan cara pembuatannya](https://en.wikipedia.org/wiki/Shell_script).

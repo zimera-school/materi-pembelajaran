@@ -21,6 +21,10 @@ set -x PATH $PATH $GRADLE_HOME/bin
 set -x HADOOP_HOME /home/bpdp/software/big-data-dev-tools/hadoop-stable
 set -x PATH $HADOOP_HOME/bin $HADOOP_HOME/sbin $PATH
 set -x PDSH_RCMD_TYPE ssh
+set -x TEZ_CONF_DIR /home/bpdp/software/big-data-dev-tools/hadoop-stable/etc/hadoop
+set -x TEZ_JARS /home/bpdp/software/big-data-dev-tools/tez
+set -x HADOOP_CLASSPATH $TEZ_CONF_DIR $TEZ_JARS/* $TEZ_JARS/lib/*
+set -x CLASSPATH $TEZ_JARS $CLASSPATH
 
 #source ~/env/fish/big-data/hive-3
 set -x HIVE_HOME /home/bpdp/software/big-data-dev-tools/hive-3

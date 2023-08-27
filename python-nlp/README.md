@@ -40,3 +40,4 @@ Untuk overview tentang statistika dan probabilitas, disarankan untuk mempelajari
 7.  Visualisasi.
 8.  Mengenali Intensi.
 9.  Machine Learning dan NLP.
+10.  Large Language Models (LLMs).

@@ -24,7 +24,7 @@ Pengetahuan linguistik akan sangat menolong untuk memahami NLP. Meskipun demikia
 
 ### Statistika dan Probabilitas
 
-Untuk overview tentang statistika dan probabilitas, disarankan untuk mempelajari seri *Schaum's* tentang probabilitas dan statistika. Versi cetak bisa diperoleh misal di https://www.amazon.com/Schaums-Outline-Statistics-Sixth-Outlines-dp-1260011461/dp/1260011461/ref=dp_ob_title_bk. Buku-buku lainnya tentu saja bisa digunakan, meski sejauh ini buku dari Schaun's series tersebut menyediakan penjalasan *to the point* beserta contoh yang relatif mudah untuk dipahami. Buku bebas yang bisa diperoleh di Internet:
+Untuk overview tentang statistika dan probabilitas, disarankan untuk mempelajari seri *Schaum's* tentang probabilitas dan statistika. Versi cetak bisa diperoleh misal di https://www.amazon.com/Schaums-Outline-Statistics-Sixth-Outlines-dp-1260011461/dp/1260011461/ref=dp_ob_title_bk. Buku-buku lainnya tentu saja bisa digunakan, meski sejauh ini buku dari Schaum's series tersebut menyediakan penjalasan *to the point* beserta contoh yang relatif mudah untuk dipahami. Buku bebas yang bisa diperoleh di Internet:
 
 * [Probability and Statistics - The Science of Uncertainty, Second Edition](http://www.utstat.toronto.edu/mikevans/jeffrosenthal/)
 * [Probability and Mathematical Statistics](https://www.researchgate.net/publication/272237355_Probability_and_Mathematical_Statistics)
